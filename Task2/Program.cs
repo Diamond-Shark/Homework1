@@ -11,7 +11,6 @@ int num2 = Convert.ToInt32(Console.ReadLine());
 
 bool ex1 = num1 > num2;
 bool ex2 = num1 == num2;
-bool ex3 = num1 < num2;
  
         if (ex1)
         {
